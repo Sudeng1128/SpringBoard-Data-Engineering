@@ -1,0 +1,5 @@
+open up command prompt and type in <pip3 install pyodbc>.
+
+go into sql server and create a database.
+
+write down the sql server name and the database name to be used in python.
